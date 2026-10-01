@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello World, I'm Zaya! 👋
 
-<!--
-**zayalovethesky/zayalovethesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An ambitious Information Systems student at Universitas Trunojoyo Madura with a deep passion for **Sleeping**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+- **LinkedIn:** [https://www.linkedin.com/in/fajarin-naufal-185348375/](https://www.linkedin.com/in/muzaiyanah-nqb-5a8932306/)
+- **Instagram:** [https://www.instagram.com/thezayyana/](https://www.instagram.com/thezayyana/)
+
+### Tech Stack & Interests
+- **Focus:** Sleep
+- **Learning:** Loving Him
+
+### Live Project
+- **Personal Portfolio Website: Coming Soon** 
+
+---
+
+### GitHub Stats
+![zayalovethesky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zayalovethesky&show_icons=true&theme=radical)
