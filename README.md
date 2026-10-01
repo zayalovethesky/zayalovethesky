@@ -1,6 +1,6 @@
 # Hello World, I'm Zaya! 👋
 
-An ambitious Information Systems student at Universitas Trunojoyo Madura with a deep passion for **Data Analyst and Web Development**.
+An ambitious Information Systems student at Universitas Trunojoyo Madura with a deep passion for **Data Analyst** and **Web Development**.
 
 ---
 
